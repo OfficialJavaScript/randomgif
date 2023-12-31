@@ -25,5 +25,5 @@ This random gif website is programmed in Python using Flask, with the usual HTML
 
 # What API is this built of? 
 
-This uses the [Giphy API](https://developers.giphy.com/)https://developers.giphy.com/
+This uses the [Giphy API](https://developers.giphy.com/)
 
