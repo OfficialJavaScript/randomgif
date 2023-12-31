@@ -1,6 +1,8 @@
 # Random Gif
 This random gif website is programmed in Python using Flask, with the usual HTML And CSS Front end.
 
+Click warning, if you click links here, they will change to that page (exiting this page) not opening in a new tab, so (CTRL + Left Click) - that will open in a new tab.
+
 # Setup
 ## Get and add API Key 
 1. Go to [Giphy Developers](https://developers.giphy.com/)
