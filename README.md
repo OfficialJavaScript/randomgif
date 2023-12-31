@@ -3,7 +3,7 @@ This random gif website is programmed in Python using Flask, with the usual HTML
 
 # Setup
 ## Get and add API Key 
-1. Go to [Giphy Developers](https://developers.giphy.com/)
+1. Go to <a href="https://developers.giphy.com/" target="_blank">Giphy Developers</a>
 2. Press Create an Account (even if you have an account this is where you can log in), and create your account/login
 3. After that press Dashboard, or click this [link](https://developers.giphy.com/dashboard)
 4. Press Create App
