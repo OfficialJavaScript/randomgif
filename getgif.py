@@ -3,7 +3,7 @@
 import requests
 
 def getimage():
-    with open('apikey') as f:
+    with open('apikey.txt') as f:
         api_key = f.readlines()
         if not api_key:
             return "nokey"
