@@ -18,12 +18,16 @@ Quick warning, if you click links here, they will change to that page (exiting t
 
 ## Setup App
 1. Make sure you have Python3 installed, I'm not going to give instructions for that here, Google it. To check just run `python3 -h` in a terminal (Next step will show you how to open a terminal if you don't know how to)
-2. Open a terminal in the folder, On Windows: Click the NAV bar (next to the search bar) and type PowerShell or CMD, Linux - You should know this, if not google it, Mac - You are gonna have to google it sorry 😂
-3. Run `pip install -r requirements.txt`
-4. Now run the file, either double-click it or run `python3 main.py` this should star the program, and look something like this:
+2. Open a terminal in the folder, On Windows: Click the NAV bar (next to the search bar) and type PowerShell or CMD (Else powershell.exe or cmd.exe), Linux - You should know this, if not google it, Mac - You are gonna have to google it sorry 😂
+
+https://github.com/OfficialJavaScript/randomgif/assets/51689500/073f6729-4e47-4ffd-96b7-798b779cfb5f
+
+
+4. Now Run `pip install -r requirements.txt`
+5. Now run the file, either double-click it or run `python3 main.py` this should star the program, and look something like this:
 ![image](https://github.com/OfficialJavaScript/randomgif/assets/51689500/87dc7bc1-bafd-4222-9f06-937637a72027)
-5. Open http://localhost/ in your browser, that should work, for any reason it doesn't go to the third ip mentioned in your terminal.
-6. And your all set to go! - If you get a error about API key try the get and add API key steps again, else open a issue about it and I'll see what I can do (DON'T INCLUDE YOUR API KEY IN THERE - IT'S PRIVATE)
+6. Open http://localhost/ in your browser, that should work, for any reason it doesn't go to the third ip mentioned in your terminal.
+7. And your all set to go! - If you get a error about API key try the get and add API key steps again, else open a issue about it and I'll see what I can do (DON'T INCLUDE YOUR API KEY IN THERE - IT'S PRIVATE)
 
 # What API is this built of? 
 
