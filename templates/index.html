@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Random Gif</title>
+        <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    </head>
+    <body>
+        <div class="container">
+            <h1>Random Gif</h1>
+            <div class="image-container">
+                {% if nokey == True %}
+                    <div class="error">
+                        <h2>You have not provided a valid API Key, make sure there are no new lines either, API key only. Check instructions on my <a target="_blank" href="https://github.com/OfficialJavaScript/randomgif">GitHub Page.</a></h2>
+                        <h2>You can get one <a target="_blank" href="https://support.giphy.com/hc/en-us/articles/360020283431-Request-A-GIPHY-API-Key">here</a></h2>
+                    </div>
+                {% elif image_url %}
+                    <img src="{{ image_url }}">
+                {% endif %}
+            </div>
+        </div>    
+    </body>
+</html>

@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Doodle+Shadow&display=swap');
+
+html {
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-family: 'Rubik Doodle Shadow', 'arial';
+    font-size: 55px;
+    margin-bottom: 80px;
+}
+
+img {
+    width: 520px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.error {
+    background-color: red;
+    margin-right: 300px;
+    margin-left: 300px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    text-align: center;
+}
